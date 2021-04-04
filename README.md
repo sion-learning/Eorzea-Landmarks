@@ -1,1 +1,1 @@
-# Eorzea-Landmark
+# EorzeaLandmark
