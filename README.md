@@ -1,4 +1,4 @@
-# EorzeaLandmark
+# Eorzea Landmarks
 2021/4/5 ver1.0
 
 ■利用者情報の取得
